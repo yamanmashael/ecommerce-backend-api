@@ -41,4 +41,9 @@ Technologies Used
 •Dependency Injection
 •RESTful API Design
 
+[DB.pdf](https://github.com/user-attachments/files/23664174/DB.pdf)
 
+Database Diagram (ERD) Explanation
+
+This ERD represents the complete structure of the e-commerce database. It shows all relationships between the main tables such as users, products, orders, cart, stock, addresses, and categories.
+The design uses One-to-Many and Many-to-Many relationships through linking tables to ensure a scalable and efficient data structure.
