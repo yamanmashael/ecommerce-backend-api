@@ -37,7 +37,6 @@ Technologies Used
 •DTOs
 •LINQ
 •JWT Authentication and Authorization
-•Async and Await
 •Dependency Injection
 •RESTful API Design
 
